@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
@@ -9,6 +10,6 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
-    "feather": "^0.0.5"
+    "feather": "^1.0.0"
   }
 }
