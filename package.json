@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "vite",
+    "dev": "vite",
     "build": "vite build"
   },
  "devDependencies": {
@@ -10,6 +10,7 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
-    "feather-icons": "^4.29.2"
+    "feather-icons": "^4.29.2",
+    "vite": "^6.3.5"
   }
 }
